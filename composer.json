@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": "^10",
+        "php": "^8",
         "ext-json": "*",
         "ext-pcntl": "*",
         "ext-posix": "*",
